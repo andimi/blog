@@ -1,1 +1,1 @@
-Sitemap: https://andimi.github.io/blog/sitemap.xml
+Sitemap: https://andimi.me/sitemap.xml
