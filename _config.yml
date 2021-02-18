@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: the glass brazier
-description: "Andrea Dimitracopoulos's Personal Blog: Life, Science, and Artificial Intelligence"
+title: untitled notebook
+description: "Andrea Dimitracopoulos's Blog: Life, Science, and Artificial Intelligence"
 github_username: andimi
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "blog"
